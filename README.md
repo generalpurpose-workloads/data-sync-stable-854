@@ -1,2 +1,5 @@
 # data-sync-stable-854
-ML model checkpoint storage
+
+> Internal build artifact storage
+
+Automatically managed by CI/CD pipeline. Do not modify manually.
